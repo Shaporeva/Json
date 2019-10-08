@@ -1,8 +1,8 @@
-package com.vlasova.json_simple.Repository;
+package com.vlasova.json_simple.Delete;
 
 import android.os.AsyncTask;
 
-import com.vlasova.json_simple.Repository.HttpHandler;
+import com.vlasova.json_simple.Delete.HttpHandler;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.vlasova.json_simple.Repository;
+package com.vlasova.json_simple.Delete;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
